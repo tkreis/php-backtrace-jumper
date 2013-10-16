@@ -1,0 +1,15 @@
+{
+    "name": "thomas/php-backtrace-jumper",
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "authors": [
+        {
+            "name": "thomas",
+            "email": "tkreis8@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
